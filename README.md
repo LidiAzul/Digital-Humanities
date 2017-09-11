@@ -8,7 +8,7 @@ My name is Lidia Ponce de la Vega. I am a grad student from Mexico and I just st
 
 For my dissertation, I would like to contrast the representation of and the relation between animals –human and nonhuman— in two moments in the tradition of bestiaries in America: the *Sumario de la Historia Natural de las Indias* (1522) by Gonzalo Fernández de Oviedo, and three Mexican bestiaries from the 20th and 21st centuries: *Bestiario* (1938) by Juan José Arreola, “Especies en peligro (y otras víctimas)” in *Islas a la deriva* (1975) by José Emilio Pacheco, and *El bosque de los prodigios* (2007) by René Avilés Fabila. 
 
-# My Objectives for the course
+# My Objectives for the Course
 
 * to learn more about the wide scope of disciplines comprised under the term "Digital Humanities"
 * to learn digital tools that could (and hopefully will) help me improve my own research
