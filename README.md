@@ -15,3 +15,4 @@ For my dissertation, I would like to contrast the representation and the relatio
 * to open up to knew forms of studying the humanities and let go of the *fear* of programming and digital languages or tools
 * to incorporate digital tools to my previous (and mostly traditional/analogue) methods of research
 
+![Monarch] (https://user-images.githubusercontent.com/31863150/30295086-62340568-970d-11e7-8e43-fe63f661464a.jpg)
