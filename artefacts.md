@@ -8,7 +8,7 @@
 <img src="https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(5).png?raw=true">
 </p>
 
-* Artifact Type: Article
+* Artefact Type: Article
 * Source URL: https://dh2017.adho.org/abstracts/471/471.pdf
 * Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 * Creator and Affiliation: Margaret Linley (Simon Fraser University)
@@ -22,7 +22,7 @@ William Wordsworth, in *Guide to the Lakes*, seeks to employ travel guides as an
 <img src="https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(3).png?raw=true">
 </p>
 
-* Artifact Type: Article
+* Artefact Type: Article
 * Source URL: https://dh2017.adho.org/abstracts/007/007.pdf
 * Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 * Creator and Affiliation: Marc Alexander and Andrew Struan (University of Glasgow)
@@ -37,7 +37,7 @@ By developing on a previous article and by analysing the digital data compiled i
 <img src="https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(7).png?raw=true">
 </p>
 
-* Artifact Type: Tool
+* Artefact Type: Tool
 * Source URL: http://textometrica.humlab.umu.se
 * Permissions: 
 * Creator and Affiliation: Simon Lindgren and Fredrik Palm (HUMlab, Umeå University)
