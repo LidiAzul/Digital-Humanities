@@ -4,7 +4,9 @@
 
 ### Presented as part of the Panel “The Environmental and Human Costs of DH”
 
-<align="center"> ![screenshot](https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(5).png?raw=true)
+<p align="center"> 
+<img src="https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(5).png?raw=true">
+</p>
 
 * Artifact Type: Article
 * Source URL: https://dh2017.adho.org/abstracts/471/471.pdf
@@ -16,7 +18,9 @@ William Wordsworth, in *Guide to the Lakes*, seeks to employ travel guides as an
 
 ## “Digital *Hansard*: Politics and the Uncivil” 
 
-<align="center"> ![screenshot](https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(3).png?raw=true)
+<p align="center"> 
+<img src="https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(3).png?raw=true">
+</p>
 
 * Artifact Type: Article
 * Source URL: https://dh2017.adho.org/abstracts/007/007.pdf
@@ -29,7 +33,9 @@ By developing on a previous article and by analysing the digital data compiled i
 
 ## *Textometrica*
 
-<align="center"> ![screenshot](https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(7).png?raw=true)
+<p align="center"> 
+<img src="https://github.com/LidiAzul/Digital-Humanities/blob/master/2017-10-07%20(7).png?raw=true">
+</p>
 
 * Artifact Type: Tool
 * Source URL: http://textometrica.humlab.umu.se
